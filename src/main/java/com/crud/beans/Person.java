@@ -6,4 +6,5 @@ public class Person {
     private Integer age;
     private Integer score;
    private String lige;
+    private String hostory;
 }
