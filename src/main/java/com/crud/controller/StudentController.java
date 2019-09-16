@@ -61,5 +61,6 @@ public class StudentController {
         stu.setScore(90);
         int row = iStudentSV.updateStudent(stu);
         System.out.println(row);
+        System.out.println("123");
     }
 }
